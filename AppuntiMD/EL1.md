@@ -2,6 +2,8 @@
 
 ## Recap sugli ordini di grandezza
 
+![I multipli e i sottomultipli – lafisika.it](https://www.lafisika.it/wp-content/uploads/2017/12/Immagine-lafisika-2.png)
+
 ## Informazione, energia
 
 Per illustrare questo argomento possiamo usare la regola delle 5W:
@@ -65,3 +67,18 @@ Anche in questo caso possiamo calcolare la derivata in modo da ottenere:
 
 
 
+### A che velocità di muovono le cariche?
+
+A differenza di quello che si può pensare, le cariche **all'interno di un conduttore ohmico** è **molto bassa**, nell'ordine dei <u>centimetri al secondo</u>; quello che invece si muove quasi istantaneamente è l'informazione: il capo elettrico e magnetico.
+
+Anche se la corrente è altissima (nell'ordine dei kiloampere), la velocità delle cariche **non varia**; la velocità delle cariche dipende **unicamente dal mezzo in cui esse si muovono.**
+
+### Cosa succede se la corrente che entra non è uguale a quella che esce?
+
+![Immagine1PNG](./assets/Immagine1PNG.png)
+
+**Facciamo delle ipotesi:**
+
+- **Ipotesi di condizioni stazionarie**
+  In questa ipotesi, qualunque derivata rispetto al tempo ci restituisce **zero**. In queste condizioni, vale il fatto che il numero di cariche che entra è uguale a quello che esce:
+  ![Immagine1PNG 1](./assets/Immagine1PNG 1.png)
