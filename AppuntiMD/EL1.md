@@ -62,3 +62,7 @@ Se consideriamo una superficie chiusa, il numero di cariche che entra ed esce at
 Anche in questo caso possiamo calcolare la derivata in modo da ottenere:
 
 ![ImmaginePNG10](./assets/Immagine PNG 10.png)
+
+
+
+![Immagine PNG 10](./assets/Immagine PNG 10-6155480.png)
