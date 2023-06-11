@@ -1,4 +1,4 @@
-# Lezione 2
+# Lezione 2: Il bipolo elettrico
 
 Abbiamo visto nella lezione precedente come all'atto pratico le cariche muovendosi attraverso una superficie (ed attraverso un conduttore elettrico) creino una **corrente elettrica**.
 
@@ -104,6 +104,31 @@ Il **succo del discorso** è che **qualsiasi linea ragionevole** andremo a scegl
 2. La condizione di **quasi stazionarietà** ci garantisce che la corrente in un morsetto è **all'incirca** uguale a quella che esce.
 3. Considero la derivata del flusso del campo magnetico molto più piccola dei potenziali. Anche in questo caso si parla di **ipotesi di quasi stazionarietà** e le due linee *gamma* e *gamma_primo* devono essere **ragionevoli.**
 
-## Il lavoro
+## Potenze ed energie assorbite da un bipolo elettrico
 
 Affinché le cariche possano spostarsi da un polo all'altro, ci deve essere una "spesa di energia", e di conseguenza si deve **compiere un lavoro**.
+
+Quando schematizziamo il bipolo, poniamo il **+** ed il **-**; ma questi simboli **non ci dicono dove sono le cariche positive e negative**, ma invece servono solo per **riferimento della tensione**; quando ad esempio diciamo "*v(t) è a 10 Volt*", stiamo dicendo che **il morsetto A ha un potenziale maggiore rispetto a B**.![ImmaginePNG17](assets/ImmaginePNG17.png)
+
+Immaginiamo di avere un intervallo di tempo *delta_t* in cui andiamo a misurare *delta_We*:
+
+![ImmaginePNG18](assets/ImmaginePNG18.png)
+
+Se *delta_We* è positiva, il bipolo **sta assorbendo energia** dal circuito, oppure, in maniera equivalente, **il circuito sta erogando energia**.
+
+Se facciamo il rapporto tra la potenza assorbita, ed un intervallo di tempo, otteniamo la **potenza assorbita nell'intervallo** *delta_t*, oppure **potenza assorbita media**:
+
+![ImmaginePNG19](assets/ImmaginePNG19.png)
+
+> **N.B.** questo concetto è un **concetto generale**: possiamo usarlo per le **grandezze elettriche**, ma anche con altre grandezze. Possiamo considerare infatti un sistema meccanico, in cui abbiamo una ruota che viene messa in rotazione da un altro sistema, e comunque avremmo avuto un **flusso di energia** da un sistema all'altro, e quindi avremmo avuto una "potenza".
+>
+> Inoltre non diciamo "potenza elettrica", perché ogni potenza viene calcolata allo stesso modo.
+
+Si può dimostrare che:
+
+> <<La potenza istantanea assorbita dal dipolo  è proprio il prodotto della tensione per la corrente, con il verso scelto.>>
+
+![ImmaginePNG20](assets/ImmaginePNG20.png)
+
+Questo ha senso, perchè basti pensare al fato che il potenziale rappresenta *l'unità di carica per il lavoro*, mentre la corrente rappresenta il *numero di cariche in unità di tempo*; di conseguenza il loro prodotto rappresenta *un lavoro nell'unità di tempo*, ovvero la potenza.
+

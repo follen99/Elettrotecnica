@@ -1,4 +1,4 @@
-# Lezione 1
+# Lezione 1: Cariche e corrente elettrica
 
 ## Recap sugli ordini di grandezza
 
