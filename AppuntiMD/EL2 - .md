@@ -46,7 +46,9 @@ In questo caso si dice che **il campo è conservativo**, ovvero la **circuitazio
 
 ## Il bipolo elettrico
 
-Il bipolo elettrico è "l'elemento base" che **popola tutti i nostri circuiti**; esso ha **due terminali/morsetti/collegamenti**, che nella figura abbiamo chiamato *A e B*:![ImmaginePNG9 (2)](assets/ImmaginePNG9 (2).png)
+Il bipolo elettrico è "l'elemento base" che **popola tutti i nostri circuiti**; esso ha **due terminali/morsetti/collegamenti**, che nella figura abbiamo chiamato *A e B*:
+
+![ImmaginePNG9(2)](assets/ImmaginePNG9(2).png)
 
 *"omega"* rappresenta proprio **l'involucro o black box** del nostro componente elettronico, come potrebbe essere un **alimentatore per telefono**. **L'interazione** con l'oggetto avviene solo ed unicamente attraverso questi due terminali; infatti possiamo toccare tranquillamente il nostro alimentatore senza correre il rischio di venire a contatto con una corrente elettrica.
 
