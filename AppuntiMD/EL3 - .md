@@ -108,6 +108,6 @@ Già solo il fatto che le componenti sono connesse (Saldate) tra loro, porta a s
    Consideriamo le correnti uscenti come positive, le correnti entranti come negative.
 5) Applicando *l'ipotesi di quasi stazionarietà* ci accorgiamo che la somma delle correnti che passano attraverso la superficie è zero.
 
-![kirchhoff](assets/kirchhoff.png)
+![kirchhoffcurr](assets/kirchhoffcurr.png)
 
 Come si può notare dai calcoli, non sono presenti integrali o calcoli "strani", ma solo **un'equazione lineare** molto semplice; questo è l'obbiettivo del corso: astrarre al massimo ed apportare delle semplificazioni in modo da riuscire ad ottenere un risultato quanto più vicino alla realtà (anche se non perfettamente esatto), ma in un tempo ragionevole!
