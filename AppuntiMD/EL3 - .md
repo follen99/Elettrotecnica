@@ -86,3 +86,28 @@ Abbiamo successivamente i **processori**, detti **n-poli**, che hanno anche cent
 
 I circuiti stampati solitamente **hanno più piani**, anche se in questo corso vedremo circuiti stampati su un singolo piano. Ad esempio il Mosfet è strutturato su 3 "piani".
 
+# Definizione di Circuito Elettrico
+
+Un circuito elettrico è l'insione di dipoli (ma anche altri componenti come i tri-poli) che sono **connessi elettricamente tra loro**, in punti che d'ora in poi chiameremo **nodi del circuito**.
+
+![circuitobase](assets/circuitobase.png)
+
+
+
+Già solo il fatto che le componenti sono connesse (Saldate) tra loro, porta a stabilire delle **leggi** che governano le tensioni e correnti del circuito.
+
+## Leggi di Kirchhoff per le tensioni e per le correnti
+
+- Tensioni --> ***LKT***
+- Correnti --> ***LKC***
+
+1) Scegliamo **arbitrariamente** i versi delle correnti.
+2) Scegliamo uno dei nodi del circuito, ad esempio il nodo B.
+3) Disegnamo una superficie "Gaussiana" attorno al nodo.
+4) Applichiamo la conservazione della carica dopo aver scelto una **normale uscente**.
+   Consideriamo le correnti uscenti come positive, le correnti entranti come negative.
+5) Applicando *l'ipotesi di quasi stazionarietà* ci accorgiamo che la somma delle correnti che passano attraverso la superficie è zero.
+
+![kirchhoff](assets/kirchhoff.png)
+
+Come si può notare dai calcoli, non sono presenti integrali o calcoli "strani", ma solo **un'equazione lineare** molto semplice; questo è l'obbiettivo del corso: astrarre al massimo ed apportare delle semplificazioni in modo da riuscire ad ottenere un risultato quanto più vicino alla realtà (anche se non perfettamente esatto), ma in un tempo ragionevole!
