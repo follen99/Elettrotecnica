@@ -2,7 +2,7 @@
 
 Per *conduttore ohmico filiforme* si intende un qualsiasi conduttore avente una sezione circolare; di conseguenza **la densità di corrente è proporzionale al campo elettrico** (la legge di ohm funziona).
 
-![ImmaginePNG21](assets/ImmaginePNG21.png)
+<img src="assets/ImmaginePNG21.png" alt="ImmaginePNG21" style="zoom:33%;" />
 
 Ovviamente ci aspettiamo che **la potenza assorbita sia maggiore di zero**; questo non è però scontato: se invece di un conduttore ohmico (come un filo, o resistore) avessimo un *generatore* (come una batteria), questa potrebbe anche *erogare energia*, e quindi non la assorbirebbe dal circuito.
 
@@ -90,7 +90,7 @@ I circuiti stampati solitamente **hanno più piani**, anche se in questo corso v
 
 Un circuito elettrico è l'insione di dipoli (ma anche altri componenti come i tri-poli) che sono **connessi elettricamente tra loro**, in punti che d'ora in poi chiameremo **nodi del circuito**.
 
-![circuitobase](assets/circuitobase.png)
+<img src="assets/circuitobase.png" alt="circuitobase" style="zoom:33%;" />
 
 
 
@@ -99,7 +99,9 @@ Già solo il fatto che le componenti sono connesse (Saldate) tra loro, porta a s
 ## Leggi di Kirchhoff per le tensioni e per le correnti
 
 - Tensioni --> ***LKT***
-- Correnti --> ***LKC***
+- Correnti --> ***LKC*** (**L**eggi di **K**irchhoff per i **C**ircuiti)
+
+### I Nodi - Legge di Kirchhoff per le correnti
 
 1) Scegliamo **arbitrariamente** i versi delle correnti.
 2) Scegliamo uno dei nodi del circuito, ad esempio il nodo B.
@@ -111,3 +113,39 @@ Già solo il fatto che le componenti sono connesse (Saldate) tra loro, porta a s
 ![kirchhoffcurr](assets/kirchhoffcurr.png)
 
 Come si può notare dai calcoli, non sono presenti integrali o calcoli "strani", ma solo **un'equazione lineare** molto semplice; questo è l'obbiettivo del corso: astrarre al massimo ed apportare delle semplificazioni in modo da riuscire ad ottenere un risultato quanto più vicino alla realtà (anche se non perfettamente esatto), ma in un tempo ragionevole!
+
+Tutto questo ragionamento ci porta a definire la **legge di Kirchhoff per le correnti:**
+
+> **LKC: ** somma <u>algebrica</u> delle correnti in funzione del tempo, è sempre uguale a zero.
+
+<img src="assets/legge.png" alt="legge" style="zoom:25%;" />
+
+Possiamo scrivere le equazioni di Kirchhoff per tutti i nodi del circuito:
+
+![eqlinkirch](assets/eqlinkirch.png)
+
+A questo punto possiamo **sommare** tutte le equazioni; arriveremo inevitabilmente ad una **identità** (0=0), ovvero almeno una di queste 4 equazioni può essere espressa attraverso **combinazione lineare delle altre 3**:
+
+![combinazionelin](assets/combinazionelin.png)
+
+### I Loops - Legge di Kirchhoff per le tensioni
+
+Possiamo anche individuare dei **circuiti chiusi** chiamate **Maglie del circuito**:
+
+![maglie](assets/maglie.png)
+
+Per la legge di Kirchhoff sulle maglie, dobbiamo:
+
+1. Individuare una maglia
+2. Stabilire il verso della maglia
+3. Stabilire una differenza di potenziale per ogni elemento del circuito
+4. Applichiamo la legge di Faraday-Neumann: la circuitazione 
+5. Consideriamo la Linea chiusa *gamma*:
+   1. Se va dal + al - (Quando incontra un componente elettronico i.e. dipolo) allora la differenza di potenziale viene conteggiata come positiva.
+   2. Se va dal - al +  allora la differenza di potenziale viene conteggiata come negativa.
+
+<img src="assets/kirchhoffmaglie.png" alt="kirchhoffmaglie" style="zoom:33%;" />
+
+> **LKT: ** Per ogni maglia del circuito la somma algebrica delle tensioni che interessano quella maglia, è istante per istante uguale a zero.
+
+<img src="assets/inlinekirchhoff.png" alt="inlinekirchhoff" style="zoom: 25%;" />
