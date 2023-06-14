@@ -1,5 +1,7 @@
 # Potenza assorbita ed erogata da un bipolo conduttore ohmico filiforme
 
+[TOC]
+
 Per *conduttore ohmico filiforme* si intende un qualsiasi conduttore avente una sezione circolare; di conseguenza **la densità di corrente è proporzionale al campo elettrico** (la legge di ohm funziona).
 
 <img src="assets/ImmaginePNG21.png" alt="ImmaginePNG21" style="zoom:33%;" />

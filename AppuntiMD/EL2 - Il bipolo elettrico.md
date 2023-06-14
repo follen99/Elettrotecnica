@@ -1,8 +1,10 @@
-# Lezione 2: Il bipolo elettrico
+# Il bipolo elettrico
 
 Abbiamo visto nella lezione precedente come all'atto pratico le cariche muovendosi attraverso una superficie (ed attraverso un conduttore elettrico) creino una **corrente elettrica**.
 
 Quello che però ci torna utile è **l'utilizzo di funzioni del tempo**, che ci permettono di effettuare calcoli in modo molto più *semplice*.
+
+[TOC]
 
 ## Densità di Corrente elettrica
 

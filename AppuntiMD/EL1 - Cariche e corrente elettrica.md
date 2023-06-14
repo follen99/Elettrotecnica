@@ -1,4 +1,6 @@
-# Lezione 1: Cariche e corrente elettrica
+# Cariche e corrente elettrica
+
+[TOC] 
 
 ## Recap sugli ordini di grandezza
 
