@@ -67,3 +67,31 @@ Il contrario della resistenza nulla, è proprio la **conduttanza nulla**, che ci
 ## I simboli dei dipoli appena visti
 
 ![resistorirappr](assets/resistorirappr.png)
+
+## Bipolo generatore Ideale di tensione e di corrente
+
+![genideale](assets/genideale.png)
+
+- *e(t)* è una **funzione matematica del tempo**; non deve essere per forza variabile, infatti (per semplificare), vediamo e(t) come una **costante**.
+  Un generatore di tensione può essere una **batteria**, quindi il numero e(t) può benissimo essere il voltaggio di una pila AA.
+- j(t) è anch'essa una funzione matematica del tempo, che può essere sia variabile che costante; il generatore di corrente non esiste vero e proprio: va sintetizzato.
+  Per creare un generatore di corrente devono essere "messi insieme" tanti dipoli; un esempio è il **pannello fotovoltaico**, che a volte si comporta da generatore di tensione, altre volte da generatore di corrente.
+
+Per ogni dipolo che vedremo, andremo ad esaminare 4 aspetti fondamentali:
+
+- Tensione
+- Corrente
+- Potenza
+- Energia
+
+Questo ci fa capire che per il resistore ci manca ancora **potenza** ed **energia**.
+
+# Raccolta di esercizi
+
+## Esercizio 1
+
+Scrivere le leggi di kirchhoff per il seguente circuito
+
+## Esercizio 2
+
+Determinare tensioni e correnti per il seguente circuito
