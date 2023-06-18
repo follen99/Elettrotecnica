@@ -100,8 +100,8 @@ Già solo il fatto che le componenti sono connesse (Saldate) tra loro, porta a s
 
 ## Leggi di Kirchhoff per le tensioni e per le correnti
 
-- Tensioni --> ***LKT***
-- Correnti --> ***LKC*** (**L**eggi di **K**irchhoff per i **C**ircuiti)
+- Tensioni --> ***LKT*** (**L**eggi di **K**irchhoff per le **T**ensioni)
+- Correnti --> ***LKC*** (**L**eggi di **K**irchhoff per le **C**orrenti)
 
 ### I Nodi - Legge di Kirchhoff per le correnti
 
