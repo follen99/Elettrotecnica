@@ -78,3 +78,38 @@ Quando le piastre del condensatore non sono perfettamente **schermate**, si veri
 <img src="assets/166th23-194440.png" alt="166th23-194440" style="zoom:25%;" />
 
 > Esempio di induzione **non perfetta**.
+
+### Ricavare l'equazione caratteristica del condensatore
+
+#### Caratteristica della corrente
+
+Come sempre stabiliamo una convenzione (utilizzatore i va da +  a -) e quindi stabiliamo una differenza di potenziale (positiva).
+
+Possiamo trovare la corrente  grazie ad una **superficie Gaussiana**:
+
+- Se la superficie **circonda** il bipolo, allora il flusso sarà zero.
+- Se la superficie (chiusa) avvolge **solo una piastra** il flusso non sarà più zero: possiamo usare la legge della **conservazione della carica** per trovare la corrente:
+
+ ![166th23-202914](assets/166th23-202914.png)
+
+Possiamo recuperare la formula della capacità ricavata prima, e mettere insieme le due equazioni:
+
+ ![166th23-203238](assets/166th23-203238.png)
+
+Ci accorgiamo quindi dalla caratteristica che **la corrente dipende dal tempo**, infatti la derivata è dipende proprio dall'istante di tempo in cui viene calcolata.
+
+La derivata è inoltre un **operatore lineare**, il che rende il condensatore un **bipolo dinamico lineare**.
+
+Se calcoliamo la caratteristica dal punto di vista della convenzione del generatore, otterremmo semplicemente il risultato col segno cambiato:
+
+<img src="assets/166th23-203743.png" alt="166th23-203743" style="zoom:25%;" />
+
+Possiamo inoltre osservare il caso in cui **la capacità è funzione del tempo**:
+
+<img src="assets/166th23-204257.png" alt="166th23-204257" style="zoom: 33%;" />
+
+#### Caratteristica della tensione
+
+Possiamo **integrare entrambi i membri** della caratteristica della corrente in modo da ottenere la tensione:
+
+<img src="assets/166th23-204730.png" alt="166th23-204730" style="zoom: 33%;" />
