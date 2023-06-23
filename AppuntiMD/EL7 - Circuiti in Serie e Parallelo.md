@@ -81,3 +81,7 @@ Caso da studiare autonomamente visto a :checkered_flag: 1:10
 
 Caso da studiare autonomamente visto a :checkered_flag: 1:10
 
+# Esercizi
+
+## Esempio di pannello fotovoltaico
+
