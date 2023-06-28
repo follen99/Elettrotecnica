@@ -85,3 +85,8 @@ Caso da studiare autonomamente visto a :checkered_flag: 1:10
 
 ## Esempio di pannello fotovoltaico
 
+---
+
+
+
+**In questo file sono presenti degli esercizi presi dal libro "circuiti"**.

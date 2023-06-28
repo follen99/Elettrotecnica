@@ -98,16 +98,16 @@ Un circuito elettrico è l'insione di dipoli (ma anche altri componenti come i t
 
 Già solo il fatto che le componenti sono connesse (Saldate) tra loro, porta a stabilire delle **leggi** che governano le tensioni e correnti del circuito.
 
-## Leggi di Kirchhoff per le tensioni e per le correnti
+# Leggi di Kirchhoff per le tensioni e per le correnti
 
 - Tensioni --> ***LKT*** (**L**eggi di **K**irchhoff per le **T**ensioni)
 - Correnti --> ***LKC*** (**L**eggi di **K**irchhoff per le **C**orrenti)
 
-### I Nodi - Legge di Kirchhoff per le correnti
+## I Nodi - Legge di Kirchhoff per le correnti
 
 1) Scegliamo **arbitrariamente** i versi delle correnti.
 2) Scegliamo uno dei nodi del circuito, ad esempio il nodo B.
-3) Disegnamo una superficie "Gaussiana" attorno al nodo.
+3) Disegniamo una superficie "Gaussiana" attorno al nodo.
 4) Applichiamo la conservazione della carica dopo aver scelto una **normale uscente**.
    Consideriamo le correnti uscenti come positive, le correnti entranti come negative.
 5) Applicando *l'ipotesi di quasi stazionarietà* ci accorgiamo che la somma delle correnti che passano attraverso la superficie è zero.
@@ -130,7 +130,7 @@ A questo punto possiamo **sommare** tutte le equazioni; arriveremo inevitabilmen
 
 ![combinazionelin](assets/combinazionelin.png)
 
-### I Loops - Legge di Kirchhoff per le tensioni
+## I Loops - Legge di Kirchhoff per le tensioni
 
 Possiamo anche individuare dei **circuiti chiusi** chiamate **Maglie del circuito**:
 

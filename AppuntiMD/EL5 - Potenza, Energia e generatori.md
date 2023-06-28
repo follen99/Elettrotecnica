@@ -1,5 +1,7 @@
 # Potenza ed energia assorbite da un resistore
 
+[TOC]
+
 ## Potenza assorbita ed erogata
 
 Per capire la potenza ed energia assorbite da un resistore dobbiamo analizzare come al solito un circuito che include il bipolo resistore; andiamo quindi ad applicare le solite convenzioni, adottando la convenzione dell'utilizzatore:
