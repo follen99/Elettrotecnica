@@ -56,13 +56,35 @@ Per **costruzione** una potenza ha una grandezza con segno invertito rispetto al
 
 Come prima cosa, da questo momento non rappresenteremo più il dipolo come una "patata" (tondeggiante), ma con il seguente schema:![convenzionisegno](assets/convenzionisegno.png)
 
-## Convenzione dell'utilizzatore
+## Diversi casi nelle convenzioni di utilizzatore/generatore
 
-Il prodotto v*i, se maggiore di zero, rappresenta effettivamente una potenza assorbita dal dipolo, ovvero un flusso di energia nell'unità di tempo, che dal circuito fluisce verso il dipolo.
+### Potenza > 0 - conv. Generatore
 
-## Convenzione del generatore
+Il calcolo della potenza `P = v * i` viene *positivo* quando v ed i **hanno lo stesso segno**; siamo quindi nella convenzione del generatore. Possiamo rappresentare la **tensione**, oltre che con i segni + e -, anche con una freccia, per aiutarci a distinguere le convenzioni.
 
-Se la corrente elettrica i(t) **ha verso opposto**, ovvero da B ad A, la potenza è detta (come abbiamo appena visto) *potenza erogata*; e di conseguenza è detta **convenzione del generatore**.
+Rappresenteremo la freccia in modo tale da "puntarla" verso il punto dove avremmo posizionato il "+":
+
+<img src="assets/118th23-151550.png" alt="118th23-151550" style="zoom:25%;" />
+
+Se *v* ed *i* hanno lo stesso segno, vuol dire che il punto dove abbiamo posizionato il "+" (destra) ha un **potenziale maggiore** del punto a sinistra; questo perchè se abbiamo la corrente che fluisce da sx a dx, il potenziale dovrebbe essere al contrario (le cariche vanno dal potenziale maggiore a quello minore, quindi in questo caso dovrebbe essere da sinistra a destra)!
+
+Di conseguenza **deve esserci un generatore che <u>porta</u> le cariche da sinistra  destra** compiendo un certo lavoro.
+
+**In altre parole** se nella convenzione del generatore si ottiene un valore positivo della potenza (nella convenzione del generatore), allora il dipolo sta effettivamente **erogando energia**; è quindi un **generatore.**
+
+### Potenza < 0 - conv. Generatore
+
+Se dal calcolo otteniamo un valore negativo della potenza (nella convenzione del generatore), vuol dire che il componente **assorbe energia**; se il componente è una *batteria*, allora **la batteria si sta ricaricando**.
+
+### Potenza > 0 - conv. Utilizzatore
+
+Se dal calcolo otteniamo un valore positivo della potenza (nella convenzione del l'utilizzatore), vuol dire che le cariche si muovono **naturalmente** dal potenziale alto a quello basso; questo avviene **ad opera del campo elettrico** (è il campo che compie il lavoro e non il componente!). Di conseguenza il componente sta **assorbendo energia**.
+
+### Potenza < 0 - conv. Utilizzatore
+
+Se dal calcolo otteniamo un valore negativo della potenza (nella convenzione del l'utilizzatore) vuol dire che il **bipolo passivo funziona da generatore**; questo è possibile in diversi casi, come nel caso dei **condensatori in fase di scarica** e degli **induttori in fase di scarica**.
+
+**N.b.** Bisogna tenere presente che questi componenti sono sempre detti **"passivi"** perché l'energia che erogano è stata precedentemente assorbita dagli stessi.
 
 # Premessa sui circuiti elettrici
 
