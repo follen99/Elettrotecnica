@@ -17,6 +17,8 @@ Per trovare la resistenza equivalente possiamo usare le leggi di Kirchhoff e le 
 
 ### Regola del partitore di tensione
 
+> :checkered_flag: 30:00
+
 <img src="assets/166th23-144042.png" alt="166th23-144042" style="zoom:25%;" />
 
 La differenza di potenziale iniziale viene **ripartita** tra i due resistori del circuito: se la tensione totale è, ad esempio, 5V, potrebbe accadere che sul primo resistore "cadono 2V" e sul secondo il resto.
