@@ -26,14 +26,14 @@ Repository dedicata all'esame di Elettrotecnica
 
 ### Lezione 10
 
-- Metodo per ispezione
-- Metodo per sovrapposizione degli effetti
+- **<u>Metodo</u>** per ispezione
+- **<u>Metodo</u>** per sovrapposizione degli effetti
 - Equivalenza stella triangolo (**DIM**)
 
 ### Lezione 11
 
-- Metodo sistematico ridotto per la soluzione dei circuiti: **Metodo dei potenziali dei nodi**
-- Metodo automatico (**DIM**)
+- **<u>Metodo</u>** sistematico ridotto per la soluzione dei circuiti: **Metodo dei potenziali dei nodi**
+- **<u>Metodo</u>** automatico (**DIM**)
   - Equazioni di Tableau
 - Proprietà generali dei circuiti: **Conservazione della potenza elettrica** (**DIM**)
 - Potenze virtuali (**DIM**) MOLTO IMPORTANTI
@@ -56,7 +56,7 @@ Repository dedicata all'esame di Elettrotecnica
 ### Lezione 13
 
 - Introduzione al regime sinusoidale
-- **Esempio** - Risoluzione di un circuito adinamico in regime sinusoidale con il *metodo canonico*.
+- **Esempio** - Risoluzione di un circuito adinamico in regime sinusoidale con il ***<u>metodo</u>** canonico*.
 - **Esempio** - Risoluzione di un circuito dinamico in regime sinusoidale con il *metodo canonico*.
 - Introduzione (recap) ai numeri complessi
   - Forma esponenziale
@@ -77,7 +77,7 @@ Metodo dei fasori per la risoluzione dei circuiti in regime sinusoidali
 
 - Dal dominio del tempo a quello dei fasori
 - Dal dominio dei fasori a quello del tempo (fasori --> sinusoide) (**DIM**)
-- **Esempio** di risoluzione di un circuito in regime sinusoidale con il **metodo dei fasori**.
+- **Esempio** di risoluzione di un circuito in regime sinusoidale con il **<u>metodo</u> dei fasori**.
 - Equivalenze dominio del tempo - dominio dei fasori
   - Generatori
   - LKT
@@ -101,9 +101,11 @@ Metodo dei fasori per la risoluzione dei circuiti in regime sinusoidali
   - Condensatori
 - Potenza complessa (**DIM costruttiva**)
   - Potenza apparente
+- **<u>Metodo</u>** dei fasori con la convenzione dei valori efficaci
 
 - Conservazione della potenza complessa (teorema di Boucherot) (**DIM**) :checkered_flag: 1:30
   La dimostrazione si incentra sul fatto di poter dimostrare che non solo `AI=0` ma anche `AI*=0`, questo lo si fa andando a mostrare come la parte reale e quella immaginaria di `AI` sono uguali a zero *separatamente*, quindi anche la loro differenza è uguale a zero; la loro differenza è proprio `AI*`.
+- Energia assorbita da un dipolo in regime sinusoidale
 - Piccolo **Tutorial Matlab** :checkered_flag: 1:50
 
 ### Lezione 16
