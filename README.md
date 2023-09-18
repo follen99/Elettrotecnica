@@ -51,7 +51,7 @@ Repository dedicata all'esame di Elettrotecnica
 
 (Soluzioni degli esercizi nella lezione successiva)
 
-
+## Regime sinusoidale
 
 ### Lezione 13
 
@@ -108,13 +108,52 @@ Metodo dei fasori per la risoluzione dei circuiti in regime sinusoidali
 - Energia assorbita da un dipolo in regime sinusoidale
 - Piccolo **Tutorial Matlab** :checkered_flag: 1:50
 
-### Lezione 16
+### Lezione 16 - ESERCITAZIONE REGIME STAZIONARIO
 
-### Lezione 17
+Esercitazione circuiti in regime stazionario
 
-### Lezione 18
+1. Trovare tutte le potenze di resistori e generatori con il metodo per ispezione
+2. Metodo della sovrapposizione degli effetti
+3. Metodo del circuito equivalente di thevenin
+   1. da completare
+
+- Trasformazione di generatori: trasformare un generatore di corrente (con una resistenza in parallelo) in un generatore di tensione (con una resistenza in serie) dimostrato <u>usando Thevenin</u> :checkered_flag: 1:40
+
+### Lezione 17 -ESERCITAZIONE REGIME SINUSOIDALE
+
+- Esercizio: Metodo delle correnti di maglia (Mancanza della lezione precedente)
+
+Esercitazione circuiti in regime sinusoidale
+
+
+
+## Sistemi Trifase
+
+### Lezione 18 - Introduzione ai sistemi trifase
+
+- Introduzione ai sistemi trifase
+  - **Terna simmetrica** Diretta ed Inversa
+  - Gerenatori
+  - Carichi elettrici trifase: stella e triangolo
+  - **Formula di Millmann**
+- Quando il carico dei sistemi trifase non è bilanciato
+- Collegamento stella-stella con neutro
+- Cenni sulla messa a terra
+- Cenni sul salvavita
 
 ### Lezione 19
+
+- Potenza nei sistemi trifase (**DIMOSTRAZIONE COSTRUTTIVA**)
+  - Potenza istantanea assorbita dal carico
+  - Potenza istantanea - media nel dominio dei fasori
+- Formule utile per la risoluzione di esercizi di sistemi trifase
+- Strumenti di misura
+  - Voltmetro
+  - Amperometro
+  - Wattmetro
+  - Multimetro
+
+- Quanti wattmetri sono necessari per misurare la potenza attiva assorbita da un carico trifase generico? [**DA FARE** 1:30]
 
 ### Lezione 20
 
