@@ -157,9 +157,15 @@ Esercitazione circuiti in regime sinusoidale
 
 ### Lezione 20
 
+
+
 ### Lezione 21
 
+
+
 ### Lezione 22
+
+- Matrice Di Trasmissione di un doppio bipolo lineare [ARGOMENTO AVANZATO - DA FARE]
 
 ### Lezione 23
 
