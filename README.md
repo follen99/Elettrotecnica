@@ -1,6 +1,120 @@
 # Elettrotecnica
 Repository dedicata all'esame di Elettrotecnica
 
+# Elenco possibili domande orale
+
+- [ ] Perchè il condensatore diventa circuito aperto e l'induttore diventa circuito chiuso
+- [ ] Partitore di corrente
+- [ ] Partitore di tensione
+- [ ] Formula del trasporto di impedenza primario
+
+
+
+## 1 - Regime Stazionario
+
+- [ ] Potenza
+- [ ] Leggi di Kirchhoff
+- [ ] Bipoli adinamici
+  - [ ] Resistore
+  - [ ] Generatori ideali
+  - [ ] generatori reali
+- [ ] Bipoli dinamici
+  - [ ] Condensatore
+    - [ ] Potenza
+    - [ ] Energia
+  - [ ] Induttore
+    - [ ] Potenza
+    - [ ] Energia
+- [ ] Teoria dei grafi
+  - [ ] Definizioni
+  - [ ] Maglie fondamentali
+  - [ ] Insiemi di taglio
+  - [ ] Forma matriciale per le leggi di kirchhoff
+  - [ ] Forma matriciale per le maglie
+  - [ ] Equivalenza triangolo stella
+  - [ ] Sovrapposizione degli effetti **[DA FARE]**
+  - [ ] Potenziali di nodo - esprimere le tensioni in funzioni della matrice di incidenza
+  - [ ] **Conservazione delle potenze elettriche**
+  - [ ] Potenza virtuale
+    - [ ] **Conservazione delle potenze virtuali** - Tellegen
+  - [ ] **Non amplificazione delle tensioni**
+  - [ ] **Non amplificazione delle correnti**
+- [ ] Partitore di tensione
+- [ ] Partitore di corrente
+- [ ] thevenin
+- [ ] Norton
+
+## 2 - Regime sinusoidale
+
+- [ ] tempo -> fasore
+- [ ] fasore -> tempo
+- [ ] Proprietà
+  - [ ] unicità
+  - [ ] linearità
+  - [ ] derivazione
+- [ ] impedenze
+  - [ ] reattanza
+  - [ ] ammettenza
+- [ ] valore efficace
+  - [ ] valore efficace del segnale continuo
+  - [ ] valore efficace della sinusoide
+- [ ] potenza in regime sinusoidale
+  - [ ] potenza istantanea
+  - [ ] potenza media
+    - [ ] potenze del resistore
+    - [ ] potenze dell'induttore
+    - [ ] potenze del condensatore
+- [ ] Calcolo della potenza in regime fasoriale con il valore efficace
+- [ ] **Teorema della conservazione delle potenze complesse - Boucherot**
+
+
+
+## 3 - Sistemi trifase
+
+- [ ] Terna simmetrica
+  - [ ] Terna simmetrica diretta
+  - [ ] Terna simmetrica inversa
+  - [ ] Sfasamento dei generatori
+- [ ] D.D.P. tra i morsetti **[DA FARE]**
+- [ ] Rappresentazione nel piano complesso
+  - [ ] La terna simmetrica ha tensione totale zero
+- [ ] Carico trifase STELLA-STELLA *senza neutro*
+  - [ ] Carico uniforme
+  - [ ] Carico non uniforme
+  - [ ] **Formula di millmann**
+- [ ] Carico trifase STELLA-STELLA *con neutro*
+  - [ ] Potenza sprecata attraverso il neutro
+- [ ] con Messa a terra vs senza messa a terra
+- [ ] **Potenza nei sistemi trifase**
+
+## Doppi Bipoli
+
+- [ ] N - poli
+  - [ ] Relazioni caratteristiche
+  - [ ] Potenza assorbita **[DA FARE]**
+- [ ] **generatori controllati**
+  - [ ] Tensione - tensione
+  - [ ] tensione - corrente
+  - [ ] corrente - tensione
+  - [ ] corrente - corrente
+  - [ ] Matrici ibride, resistenze, conduttanze
+  - [ ] I generatori controllati sono bipoli attivi
+- [ ] Proprietà di reciprocità
+  - [ ] prima forma - tensione
+  - [ ] seconda forma - corrente
+  - [ ] terza forma - ibrida
+
+- [ ] matrice delle conduttanze
+  - [ ] potenza calcolata con la matrice delle conduttanze
+  - [ ] proprietà della matrice delle conduttanze **[DA FARE]**
+
+- [ ] Matrice delle resistenze
+  - [ ] Proprietà [DA FARE]
+
+- [ ] Bipoli inerti e non inerti
+- [ ] Thevenin per i doppi bipoli
+- [ ] Norton per i doppi bipoli
+
 ## Elenco argomenti lezioni
 
 ### Lezione 1
