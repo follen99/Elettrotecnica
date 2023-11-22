@@ -5,9 +5,9 @@ Repository dedicata all'esame di Elettrotecnica
 
 # Elenco possibili domande orale
 
-- [ ] Sistema Trifase e carico trifase
-- [ ] Reciprocità, dove viene usata? (Matrici delle conduttanze, proprietà della matrice delle conduttanze)
-- [ ] Circuiti del secondo ordine: evoluzione libera a seconda del determinante
+- [ ] Sistema Trifase e carico trifase, dimostrazione formula di Millman.
+- [ ] Reciprocità, dove viene usata? (Matrici delle conduttanze, proprietà della matrice delle conduttanze).
+- [ ] Circuiti del secondo ordine: evoluzione libera a seconda del determinante.
 
 
 
