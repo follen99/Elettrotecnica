@@ -1,12 +1,13 @@
 # Elettrotecnica
+![Copertina_W](assets/Copertina_W.png)
+
 Repository dedicata all'esame di Elettrotecnica
 
 # Elenco possibili domande orale
 
-- [ ] Perchè il condensatore diventa circuito aperto e l'induttore diventa circuito chiuso
-- [ ] Partitore di corrente
-- [ ] Partitore di tensione
-- [ ] Formula del trasporto di impedenza primario
+- [ ] Sistema Trifase e carico trifase
+- [ ] Reciprocità, dove viene usata? (Matrici delle conduttanze, proprietà della matrice delle conduttanze)
+- [ ] Circuiti del secondo ordine: evoluzione libera a seconda del determinante
 
 
 
